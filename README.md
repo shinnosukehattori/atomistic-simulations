@@ -1,28 +1,23 @@
-# Atomistic Simulations with PyTorch
+# EMFF - Efficient Molecular Force Fields
 
-This repository contains Python scripts for performing atomistic simulations using PyTorch.
-
-## Features
-- Molecular dynamics simulations
-- Energy minimization
-- Structure optimization
-
-## Requirements
-- Python 3.8+
-- PyTorch
-- NumPy
-- Matplotlib
+EMFF is a Python package for efficient molecular force field simulations.
 
 ## Installation
+
+You can install EMFF using pip:
+
 ```bash
-pip install -r requirements.txt
+pip install git+https://github.com/your-username/emff.git
 ```
 
 ## Usage
-Run the simulation script:
-```bash
-python simulation.py
+
+```python
+import emff
+
+# Your simulation code here
 ```
 
-## License
-MIT
+## Contributing
+
+Contributions are welcome! Please open an issue or pull request on GitHub.
