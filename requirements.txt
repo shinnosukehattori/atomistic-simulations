@@ -3,3 +3,4 @@ numpy>=1.23.0
 matplotlib>=3.7.0
 ase>=3.22.0
 nequip @ git+https://github.com/mir-group/nequip@develop
+rdkit>=2023.03.1
